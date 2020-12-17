@@ -1,4 +1,4 @@
-# soccer_penalty_kicks
+# soccer-penalty-kicks
 
 Repository for sample code and other pieces related to doing analysis of soccer (football) penalty kicks, maintained by Alok Pattani. 
 
